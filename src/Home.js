@@ -27,7 +27,7 @@ const Home = () => {
            </div>
       </div>
       <div className="temp"> 
-           <a href="/" className='all'> View All Design Categories  </a>        
+           <a href="/" className='all'> View All Design Categories ------------ </a>        
           <div className="temp_box">
                <div className="temp_link">                
                 <img src={Categories1} alt="" />
