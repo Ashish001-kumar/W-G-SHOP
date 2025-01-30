@@ -22,7 +22,7 @@ const Home = () => {
               <div className="slide_text">
                  <h1 className="hero_head">Grow with <br></br>great Website</h1>
                  <p className='hero_paragraph'>Logos, websites, packaging design and more. Our trusted designer community has helped thousands of businesses launch, grow, expand and rebrand with custom, professional design.</p>
-                 <a href="/" className='bay'> Bay Now </a>
+                 <a href="/" className='bay'> Bay Now --- </a>
               </div>
            </div>
       </div>
