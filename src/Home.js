@@ -31,7 +31,7 @@ const Home = () => {
           <div className="temp_box">
                <div className="temp_link">                
                 <img src={Categories1} alt="" />
-                <h3>Website Design</h3>
+                <h3>Website Designs</h3>
                 </div>
                <div className="temp_link">                
                 <img src={Categories2} alt="" />
