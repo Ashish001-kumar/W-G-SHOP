@@ -102,6 +102,7 @@ const Home = () => {
           <li><a href="/">About</a></li>
           <li><a href="/">Services</a></li>
           <li><a href="/">Contacts</a></li>
+         <li><a href="/">Policy</a></li>
         </ul>
       </div>
       <div className="info"></div>
