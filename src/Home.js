@@ -103,6 +103,7 @@ const Home = () => {
           <li><a href="/">Services</a></li>
           <li><a href="/">Contacts</a></li>
          <li><a href="/">Policy</a></li>
+         <li><a href="/">Bay-</a></li>
         </ul>
       </div>
       <div className="info"></div>
