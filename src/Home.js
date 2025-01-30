@@ -76,12 +76,12 @@ const Home = () => {
       </div>
 
 
-      <div className="website">
-        <img src={websiteImg} alt="" />
+      <div className="website">        
         <div className="web_text">
           <h3 className='web-headline'>WebPage Mockup & Coded for <br></br> <span>any screen size</span></h3>
           <p> Built with all top-notch technologies, this website is fully responsive, and the clean codebase helps it to stay intact without breaking down the layout around any device or screen size or web browser. </p>
         </div>
+        <img src={websiteImg} alt="" />
       </div>
 
 
